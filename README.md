@@ -1,4 +1,4 @@
-🤖 coding like a bot (csgo style, not chess) 🤖
+beep boop
 
 <!---
 rubeusm/rubeusm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
