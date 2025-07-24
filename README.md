@@ -1,5 +1,7 @@
 The University of Queensland
+
 BSc Computer Science Extended Major
+
 Third Year
 
 <!---
